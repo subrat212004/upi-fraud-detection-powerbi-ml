@@ -49,9 +49,10 @@ features = [
   'sender_zero_after',
   'receiver_zero_before'
 ]
---
+```
+---
 
-# Applied Train_test_split
+## Applied Train_test_split
 Standardized scaling.
 
 🧪 Logistic Regression
